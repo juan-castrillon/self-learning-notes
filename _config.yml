@@ -3,3 +3,6 @@ url: https://juan-castrillon.github.io/self-learning-notes/
 baseurl: "self-learning-notes/"
 
 theme: minima
+
+minima:
+  skin: dark
