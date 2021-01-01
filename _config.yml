@@ -4,9 +4,7 @@ baseurl: "self-learning-notes/"
 
 theme: minima
 
-minima:
-  skin: dark
+remote_theme: pmarsceill/just-the-docs
 
-header_pages:
-  - C/Aa_Index.md
-  - Java/AaIndex.md
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
