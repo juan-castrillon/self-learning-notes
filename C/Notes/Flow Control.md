@@ -176,3 +176,6 @@ Important is that:
 - Also, the `goto` statement allows you to do bad stuff such as jump out of the scope.
 - That being said, `goto` can be useful sometimes. For example: to break from nested loops.
 - `goto` is rarely useful and you can create any C program without using `goto` altogether.
+
+------------------------------
+## [Back to Index](../Aa_Index.md)

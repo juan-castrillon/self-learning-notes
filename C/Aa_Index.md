@@ -2,14 +2,14 @@
 
 ## Sections
 
-- [Basic Structure](./Basic-Structure.md)
-- [IO](./IO.md)
-- [Data Types](./Data-Types.md)
-- [Strings](Strings.md)
-- [Math in C](Math.md)
-- [Flow Control](Flow%20Control.md)
-- [Functions](Functions.md)
-  - [Variable Storage Class (Scope)](storage_class.md)
+- [Basic Structure](./Notes/Basic-Structure.md)
+- [IO](./Notes/IO.md)
+- [Data Types](./Notes/Data-Types.md)
+- [Strings](Notes/Strings.md)
+- [Math in C](Notes/Math.md)
+- [Flow Control](Notes/Flow%20Control.md)
+- [Functions](Notes/Functions.md)
+  - [Variable Storage Class (Scope)](Notes/storage_class.md)
 
 ## Why C?
 
@@ -18,7 +18,7 @@
 3. Is the universal interchange language. 
 
 ## C process
-![process](../img/c_process.PNG)
+![process](img/c_process.PNG)
 
 ## Others
 

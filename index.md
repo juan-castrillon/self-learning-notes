@@ -1,13 +1,13 @@
 # Self Learning Notebook for JP
 
 ## Programming Languages
-- [C](./C/Notes/Aa_Index.md)
+- [C](C/Aa_Index.md)
 - [Python]
 - [BASH]
-- [Java](./Java%20Clase/Notes/AaIndex.md)
+- [Java](Java/AaIndex.md)
 
 ## Software Engineering
-- [Algorithms](./Java%20Clase/Notes/ALGORITHMS/alg_index.md)
+- [Algorithms](General/ALGORITHMS/alg_index.md)
 
 ## Tools
 - [Git]
