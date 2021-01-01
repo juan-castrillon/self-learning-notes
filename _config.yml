@@ -1,3 +1,3 @@
-theme: jekyll-theme-leaf
+remote_theme: abhinavs/moonwalk
 url: https://juan-castrillon.github.io/self-learning-notes/
 baseurl: "self-learning-notes/"
