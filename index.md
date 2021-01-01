@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # Self Learning Notebook for JP
 
 ## Programming Languages
