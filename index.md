@@ -1,7 +1,7 @@
 # Self Learning Notebook for JP
 
 ## Programming Languages
-- [C](./C/code/Notes/Aa_Index.md)
+- [C](./C/Notes/Aa_Index.md)
 - [Python]
 - [BASH]
 - [Java](./Java%20Clase/Notes/AaIndex.md)
