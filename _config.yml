@@ -2,8 +2,6 @@ title: SL Notebook
 url: https://juan-castrillon.github.io/self-learning-notes/
 baseurl: "self-learning-notes/"
 
-theme: minima
-
 remote_theme: pmarsceill/just-the-docs
 
 # Color scheme supports "light" (default) and "dark"
