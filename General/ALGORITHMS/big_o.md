@@ -2,8 +2,6 @@
 
 ## Time and space complexity
 
-Suppose you need to choose from several algorithms to solve a problem. How to figure out the best one?
-
 We use the **big O notation** to classify algorithms according to how their running time or space (e.g., disk memory) requirements increase depending on the input size. It does not depend on programming language, operating system, hardware, your programmer skills, and other specific implementation details. Knowing **big O notation** enables you to find the best algorithm (in terms of time and memory requirements) for a specific task.
 
 First, let's examine the time complexity of an algorithm in the **big O notation**.
