@@ -1,7 +1,5 @@
 title: SL Notebook
-description: >
-  Some description
 url: https://juan-castrillon.github.io/self-learning-notes/
 baseurl: "self-learning-notes/"
 
-theme: jekyll-theme-cayman
+theme: minima
