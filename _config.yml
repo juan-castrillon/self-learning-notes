@@ -6,3 +6,7 @@ theme: minima
 
 minima:
   skin: dark
+
+header_pages:
+  - C/Aa_Index.md
+  - Java/AaIndex.md
