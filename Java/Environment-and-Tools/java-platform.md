@@ -1,3 +1,10 @@
+---
+title: Java Platform
+parent: Environment and tools
+grand_parent: Java
+nav_order: 3
+---
+
 # Java Platform
 
 Even if you are not an experienced programmer, you've probably heard something about Java. In fact, the term "Java" is used for many purposes in the world of software development: it doesn't only mean the programming language. In general, Java refers to a software platform: it includes some computer applications and documentation. In this topic, we'll go over a few essential ideas about Java and understand why it is so widely spread in the world of development.

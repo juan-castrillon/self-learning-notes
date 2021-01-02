@@ -1,3 +1,10 @@
+---
+title: JVM, JRE and JDK
+parent: Environment and tools
+grand_parent: Java
+nav_order: 2
+---
+
 # JVM, JRE and JDK
 
 Several basic Java Platform terms that often confuse beginner programmers are **JVM**, **JRE**, and **JDK**. Abbreviations might be hard to remember and tell apart at first, but getting familiar with them will help you feel more at ease with development for Java Platform.

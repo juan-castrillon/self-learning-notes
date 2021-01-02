@@ -1,3 +1,10 @@
+---
+title: Write, compile, run
+parent: Environment and tools
+grand_parent: Java
+nav_order: 1
+---
+
 # Write compile and run
 
 In this article, you will get an overview of how to write a program in Java world and how to run it. In the upcoming topics, this knowledge will help you create a new program and run it on your computer.

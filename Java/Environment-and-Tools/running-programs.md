@@ -1,3 +1,10 @@
+---
+title: Running Programs
+parent: Environment and tools
+grand_parent: Java
+nav_order: 4
+---
+
 # Running Programs on your computer
 
 ## Installing Java on your computer
