@@ -1,3 +1,10 @@
+---
+title: Lambda Expressions
+parent: Functional Programming
+grand_parent: Java
+nav_order: 1
+---
+
 # Lambda Expressions
 
 As you already know, Java is primarily an object-oriented programming language. It supports classes, methods, fields, and other concepts from this paradigm. Here, methods are the main way to represent the behavior of objects, classes, and whole programs. You can write absolutely any code inside their bodies and then invoke this code from other parts of your program using the names of the methods. This approach allows developers to create very structured and well-readable programs, but sometimes it's not enough and we should use other ways to represent behavior rather than methods.

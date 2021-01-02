@@ -1,3 +1,9 @@
+---
+title: Standard Functional Interfaces
+parent: Functional Programming
+grand_parent: Java
+nav_order: 4
+---
 # Standard Functional Interfaces
 
 You have already learned how to create and use functional interfaces. However, you don't have to create your own functional interface each time when you need it for a common use case. Instead, you could use built-in functional interfaces that were presented in Java 8 and can be found in the `java.util.function` package. In this topic, you will learn about the built-in functional interfaces, their types and naming conventions, and how to use them.

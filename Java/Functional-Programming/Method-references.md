@@ -1,3 +1,10 @@
+---
+title: Method References
+parent: Functional Programming
+grand_parent: Java
+nav_order: 2
+---
+
 # Method References
 
 As you know, lambda expressions allow you to use code as data and pass it as a method's arguments. Another way to do it is to use method references. They are often even more readable than corresponding lambda expressions. Besides it, method references force developers to decompose a program into a set of short methods with clear areas of responsibility.

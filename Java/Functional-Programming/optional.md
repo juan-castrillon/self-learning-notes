@@ -1,3 +1,10 @@
+---
+title: Optional
+parent: Functional Programming
+grand_parent: Java
+nav_order: 7
+---
+
 # Optional
 
 ## A billion-dollar mistake

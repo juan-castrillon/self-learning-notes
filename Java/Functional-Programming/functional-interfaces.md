@@ -1,3 +1,10 @@
+---
+title: Functional Interfaces
+parent: Functional Programming
+grand_parent: Java
+nav_order: 3
+---
+
 # Functional Interfaces
 
 In this topic, you will learn a new concept called functional interfaces. This is vital knowledge because these kinds of interfaces allow developers to use functional programming over the concepts from OOP and, in a sense, connect both these worlds together. It is functional interfaces that make it possible to use lambda expressions, method references, and other functional stuff. We suppose that you are already familiar with interfaces, lambda expressions, and anonymous classes. Now we are going to show you how they are all connected with each other.

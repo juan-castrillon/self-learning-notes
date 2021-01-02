@@ -1,3 +1,10 @@
+---
+title: Currying
+parent: Functional Programming
+grand_parent: Java
+nav_order: 6
+---
+
 # Currying
 
 Since functions can be considered as objects, they can be returned as results from other functions. It allows us to use a special style of programming where we convey arguments to a function one by one and obtain functions as intermediate results. This is a fairly advanced technique, so you won't have to use it every time you can, but it is useful to be aware of such an option

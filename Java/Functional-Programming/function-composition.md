@@ -1,3 +1,10 @@
+---
+title: Function Composition
+parent: Functional Programming
+grand_parent: Java
+nav_order: 5
+---
+
 # Function Composition
 
 In this topic, you will learn a new technique for working with functions called function composition. It is a mechanism for combining functions to obtain more complicated functions that originally comes from math. In a sense, it can be considered as a design pattern in functional programming. You can use this pattern to compose standard functions, operators, predicates and consumers (but not suppliers). Let's take a look at examples.
