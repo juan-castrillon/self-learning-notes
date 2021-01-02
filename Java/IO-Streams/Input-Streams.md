@@ -1,3 +1,10 @@
+---
+title: Input Streams
+parent: IO Streams
+grand_parent: Java
+nav_order: 3
+---
+
 # Input Streams
 
 As a rule, every program consumes some data as a way to communicate with the outer world. It can be a user's input from a console, configuration file, or something else. Java has a common mechanism for consuming data called input streams. We have already provided some text as data for our programs, and now it is time to dive deeper and explore the whole mechanism.

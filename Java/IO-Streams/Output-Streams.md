@@ -1,3 +1,10 @@
+---
+title: Output Streams
+parent: IO Streams
+grand_parent: Java
+nav_order: 2
+---
+
 # Output Streams
 
 Although you might think you haven't worked with streams yet, surely you've already used similar constructions for printing data to console:

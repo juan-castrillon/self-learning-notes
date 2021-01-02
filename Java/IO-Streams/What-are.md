@@ -1,3 +1,10 @@
+---
+title: Definition
+parent: IO Streams
+grand_parent: Java
+nav_order: 1
+---
+
 # What are streams?
 
 Sometimes your program should process data located outside it or save results to an external destination. Java provides an abstraction called stream that unifies work with disks, files, network locations and other resources.
