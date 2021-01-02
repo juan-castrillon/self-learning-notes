@@ -1,3 +1,10 @@
+---
+title: Basic Program
+parent: Basic Syntax and Simple Programs
+grand_parent: Java
+nav_order: 3
+---
+
 # Overview of the basic program
 
 ## The Hello World program

@@ -1,3 +1,10 @@
+---
+title: Size and Ranges
+parent: Basic Syntax and Simple Programs
+grand_parent: Java
+nav_order: 6
+---
+
 # Size and ranges
 
 In this lesson, we will discuss the classification and properties of primitive types provided by Java. Maybe you already know a few of them. The basic types can be separated into several groups according to meaning. Types from the same group can be operated in the same way, but have different sizes and, as consequence, represent different ranges of values.

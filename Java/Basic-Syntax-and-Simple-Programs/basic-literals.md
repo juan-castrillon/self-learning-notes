@@ -1,3 +1,9 @@
+---
+title: Basic Literals
+parent: Basic Syntax and Simple Programs
+grand_parent: Java
+nav_order: 2
+---
 # Basic Literals
 
 ## Literals

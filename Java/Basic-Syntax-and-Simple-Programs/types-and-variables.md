@@ -1,3 +1,10 @@
+---
+title: Types and Variables
+parent: Basic Syntax and Simple Programs
+grand_parent: Java
+nav_order: 5
+---
+
 # Types and Variables
 
 ## Declaring and initializing

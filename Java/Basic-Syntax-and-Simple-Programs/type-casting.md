@@ -1,3 +1,10 @@
+---
+title: Type Casting
+parent: Basic Syntax and Simple Programs
+grand_parent: Java
+nav_order: 7
+---
+
 # Type Casting
 
 Suppose, you need to assign a value of one type to a variable of another type. To do that, your program needs to cast the source type to the target type. Java provides two kinds of casting for primitive types: implicit and explicit. The first one is performed automatically by the java compiler when it is possible, and the second one – only by a programmer.

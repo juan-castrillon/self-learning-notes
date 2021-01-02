@@ -1,3 +1,10 @@
+---
+title: Comments
+parent: Basic Syntax and Simple Programs
+grand_parent: Java
+nav_order: 8
+---
+
 # Comments
 
 Inside a Java program, you can write a special text that will be ignored by the java compiler — known as the comment. Comments allow you to exclude code from the compilation process (disable it) or clarify a piece of code to yourself or other developers. In our materials, we use comments in the theory and practice lessons to explain how and why our code works.

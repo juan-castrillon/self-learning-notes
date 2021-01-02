@@ -1,3 +1,9 @@
+---
+title: Printing Data
+parent: Basic Syntax and Simple Programs
+grand_parent: Java
+nav_order: 4
+---
 # Printing data
 
 ## Displaying text using `println()` and `print()`

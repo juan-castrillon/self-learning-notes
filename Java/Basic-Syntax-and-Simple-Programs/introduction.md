@@ -1,3 +1,10 @@
+---
+title: Introduction to Java
+parent: Basic Syntax and Simple Programs
+grand_parent: Java
+nav_order: 1
+---
+
 # Introduction to Java
 
 ## What is Java?

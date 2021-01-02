@@ -1,3 +1,10 @@
+---
+title: Incrementing and Decrementing
+parent: Basic Syntax and Simple Programs
+grand_parent: Java
+nav_order: 9
+---
+
 # Incrementing and Decrementing
 
 In this topic, we will discuss one of the most famous operations in programming: increment. It is used in many programming languages including Java to increase a variable by one. Fun fact: this operation is used in the name of C++, and signifies the evolutionary nature of the changes from C.
