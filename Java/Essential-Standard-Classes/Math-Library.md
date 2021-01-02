@@ -1,3 +1,10 @@
+---
+title: Math Library
+parent: Essential Standard Classes
+grand_parent: Java
+nav_order: 1
+---
+
 # Math Library
 
 For efficient performing of various basic (and not so basic) numeric operations including exponential, modulus or finding the max/min of two numbers, Java provides the standard class `Math`. Let's consider some of the most common methods of this class.

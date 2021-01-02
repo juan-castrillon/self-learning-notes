@@ -1,3 +1,10 @@
+---
+title: Comparing Dates and Times
+parent: Essential Standard Classes
+grand_parent: Java
+nav_order: 7
+---
+
 # Comparing Dates and Times
 
 The classes `LocalDate`, `LocalTime`, `LocalDateTime` have methods for comparing their instances according to their position on the timeline. The methods compare instances as they go in chronological order (or the order of time).

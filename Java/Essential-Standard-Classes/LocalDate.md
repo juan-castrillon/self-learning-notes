@@ -1,3 +1,10 @@
+---
+title: Local Date
+parent: Essential Standard Classes
+grand_parent: Java
+nav_order: 4
+---
+
 # LocalDate
 
 Time is a fundamental notion not only in human life but in programming as well. Of course, Java provides some tools for working with temporal entities. We'll start with such units of time measurement as days (or dates).

@@ -1,3 +1,10 @@
+---
+title: Local Time
+parent: Essential Standard Classes
+grand_parent: Java
+nav_order: 5
+---
+
 # Local Time
 
 There's a special class to represent the time of day in Java. The `LocalTime` class represents daytime in hours-minutes-seconds format, such as `06:30` or `11:45:30`. It doesn't store information about the date or a time zone. Time is stored with nanosecond precision (for example, `13:45:30.123456789`). The `LocalTime` class could be used to store things like an opening and closing time of a shop or a train schedule.

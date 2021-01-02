@@ -1,3 +1,10 @@
+---
+title: Random
+parent: Essential Standard Classes
+grand_parent: Java
+nav_order: 3
+---
+
 # Random
 
 Sometimes you need to get a random number or another random value. It is useful for testing purposes or may be applied as an initial value in different algorithms or even in a game. For this purpose, Java provides the `Random` class. It represents a generator of pseudorandom sequences. Actually, these sequences are not truly random, because they are always determined by an initial value, called seed. However, that is good enough for practical tasks. These generators are quite important because of their speed in number generation and their reproducibility.

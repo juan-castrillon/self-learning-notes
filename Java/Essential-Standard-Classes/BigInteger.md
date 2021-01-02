@@ -1,3 +1,10 @@
+---
+title: BigInteger
+parent: Essential Standard Classes
+grand_parent: Java
+nav_order: 2
+---
+
 # BigInteger
 
 ## Using large numbers in Java
