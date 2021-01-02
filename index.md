@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Index
 ---
 
 ## Programming Languages

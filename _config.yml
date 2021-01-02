@@ -1,6 +1,6 @@
 title: SL Notebook
-url: https://juan-castrillon.github.io/self-learning-notes/
-#baseurl: "self-learning-notes/"
+url: "https://juan-castrillon.github.io"
+baseurl: "/self-learning-notes"
 
 remote_theme: pmarsceill/just-the-docs
 
