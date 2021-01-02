@@ -11,7 +11,7 @@ nav_exclude: true
 - [Java](Java/AaIndex.md)
 
 ## Software Engineering
-- [Algorithms](General/ALGORITHMS/alg_index.md)
+- [Algorithms](General-Software/ALGORITHMS/index.md)
 
 ## Tools
 - [Git]

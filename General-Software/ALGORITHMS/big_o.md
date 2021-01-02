@@ -1,3 +1,10 @@
+---
+title: Big O Notation
+parent: Algorithms
+grand_parent: General Software Concepts
+nav_order: 1
+---
+
 # The big O Notation
 
 ## Time and space complexity
