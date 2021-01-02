@@ -13,7 +13,7 @@ nav_order: 1
 - [Data Types](./Notes/Data-Types.md)
 - [Strings](Notes/Strings.md)
 - [Math in C](Notes/Math.md)
-- [Flow Control](Notes/Flow%20Control.md)
+- [Flow Control](Notes/Flow-Control.md)
 - [Functions](Notes/Functions.md)
   - [Variable Storage Class (Scope)](Notes/storage_class.md)
 
