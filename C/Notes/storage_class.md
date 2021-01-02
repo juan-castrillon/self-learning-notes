@@ -1,3 +1,10 @@
+---
+title: Scope
+parent: Functions
+grand_parent: C
+nav_order: 1
+---
+
 # Variable storage class
 
 Every variable in C programming has two properties: type and storage class.

@@ -1,3 +1,10 @@
+---
+title: Strings
+parent: C
+has_children: false
+nav_order: 4
+---
+
 # Strings
 
 - Strings are not a type in C, instead are represented by a `char[]`

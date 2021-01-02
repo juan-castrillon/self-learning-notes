@@ -1,3 +1,10 @@
+---
+title: Functions
+parent: C
+has_children: true
+nav_order: 7
+---
+
 # Functions
 
 A function is a block of code that performs a specific task. 

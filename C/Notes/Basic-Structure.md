@@ -1,3 +1,9 @@
+---
+title: Basic Structure
+parent: C
+has_children: false
+nav_order: 1
+---
 # C basic Structure
 
 An example of a typical c program is:

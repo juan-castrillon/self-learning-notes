@@ -1,3 +1,10 @@
+---
+title: Math
+parent: C
+has_children: false
+nav_order: 5
+---
+
 # Math in C
 
 ## Operators

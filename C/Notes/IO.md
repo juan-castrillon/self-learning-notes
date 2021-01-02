@@ -1,3 +1,10 @@
+---
+title: IO
+parent: C
+has_children: false
+nav_order: 2
+---
+
 # Output
 
 In `<stdio.h>` there are several functions to print strings or characters to the STDOUT of the system

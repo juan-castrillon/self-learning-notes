@@ -1,3 +1,10 @@
+---
+title: Flow Control
+parent: C
+has_children: false
+nav_order: 6
+---
+
 # Flow Control
 
 ## IF Statements

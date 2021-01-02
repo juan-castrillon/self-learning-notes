@@ -1,3 +1,10 @@
+---
+title: Data Types
+parent: C
+has_children: false
+nav_order: 3
+---
+
 # Data Types
 
 ## Primary Data Types
