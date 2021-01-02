@@ -1,4 +1,6 @@
-# Self Learning Notebook for JP
+---
+layout: home
+---
 
 ## Programming Languages
 - [C](C/Aa_Index.md)
