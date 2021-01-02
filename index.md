@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Index
+nav_exclude: true
 ---
 
 ## Programming Languages

@@ -1,3 +1,9 @@
+---
+title: Java
+has_children: true
+nav_order: 2
+---
+
 # Java
 
 ## Basic Syntax and Simple Programs
