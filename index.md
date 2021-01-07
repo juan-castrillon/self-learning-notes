@@ -14,7 +14,7 @@ nav_exclude: true
 - [Algorithms](General-Software/ALGORITHMS/index.md)
 
 ## Tools
-- [Git]
+- [Git](Git/index.md)
 - [Gradle]
 - [Docker]
 - [Kubernetes]
