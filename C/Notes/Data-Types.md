@@ -53,6 +53,40 @@ float:4
 double:8
 ```
 
+## Constants
+
+### Constant Data type
+
+-Declared just like a normal variable, using the keyword `const`
+- Value has to be assigned when created
+- Has limited scope (to where is defined)
+
+```c
+int main()
+{
+    const int x = 5;
+    //Scope valid in the main method
+}
+```
+
+### Constant Expression
+
+- Creates constants in the preprocessor (directive)
+- Using the directive `#define` followed by an immediate value to assign
+- Name in ALL CAPS
+- No semicolon
+- Scope throughout the whole file when defined
+
+```c
+#define ROWS 20
+#define COLUMNS 60
+#define GRID ROWS*COLUMNS //Scope in whole file
+
+int main() {
+    //something
+}
+```
+
 ## Boolean Values
 
 C has no boolean primitive types, however it uses the convention that `0` means “false” and any non-zero value means “true.” 
