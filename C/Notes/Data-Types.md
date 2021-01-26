@@ -1,7 +1,7 @@
 ---
 title: Data Types
 parent: C
-has_children: false
+has_children: true
 nav_order: 3
 ---
 
@@ -111,6 +111,3 @@ int main(void) {
     }
 }
 ```
-
-------------------------------
-## [Back to Index](../Aa_Index.md)
