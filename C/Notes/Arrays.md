@@ -44,9 +44,7 @@ int grid[2][3];
 
 This is clear when initializing it
 
-```c
-int grid[2][3] = {{1, 3, 0}, {-1, 5, 9}};
-```
+![img2](../img/mult_arrays2.PNG)
 
 > Stings are array of `char` types. So a 2D `char[][]` corresponds to a 1D String array. Where the first size is the number of strings and the second, the length of the biggest string plus one (for the `\0` character)
 > ```c
