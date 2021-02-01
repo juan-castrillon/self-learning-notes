@@ -48,6 +48,8 @@ Header File | Functionality
 
 ## User defined functions
 
+> In C, arguments are copied by value to functions, which means that we cannot change the arguments to affect their value outside of the function. To do that, we must use pointers
+
 In order to define a function, two things are necessary: 
 
 1.** Valid declaration**: A function can return only one parameter, and it should specify its type, and its arguments
@@ -100,9 +102,17 @@ int main()
 }
 ```
 
-------------------------------
-## [Back to Index](../Aa_Index.md)
+### Static functions
 
+By default, functions are global in C. If we declare a function with `static`, the scope of that function is reduced to the file containing it.
+
+The syntax looks like this:
+
+```c
+static void fun(void) {
+   printf("I am a static function.");
+}
+```
 
 
 

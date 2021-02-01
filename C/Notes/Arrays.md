@@ -22,6 +22,14 @@ In order to access a value:
 example[0]
 ```
 
+## Size of an array
+To determine the size of an array in C, the following construct has to be used, using the `sizeof` [operator](https://juan-castrillon.github.io/self-learning-notes/C/Notes/Varables-in-memory.html#Sizeof):
+
+```c
+int array[5];
+int size = sizeof(array)/ sizeof(array[0]);
+```
+
 ## Memory
 
 Considering the example: 

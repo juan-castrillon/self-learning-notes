@@ -25,6 +25,14 @@ char buffer[15]; //Here it has space for 14 characters (+ null)
 //do something
 ```
 
+Also valid is to use [pointers]() in the following way:
+
+```c
+char * name = "John Smith";
+```
+
+This method creates a string which we can only use for reading. 
+
 ## Manipulating Strings
 
 Using the `string.h` library, many manipulation functions can be used. The complete list of methods is [here](https://fresh2refresh.com/c-programming/c-function/string-h-library-functions/) and the most important are:
