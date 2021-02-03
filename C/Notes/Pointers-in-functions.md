@@ -11,6 +11,8 @@ Pointers can be used as arguments or as return values of functions.
 
 ## As arguments
 
+Normally function arguments are passed by value, which means they are copied in and out of functions. But what if we pass pointers to values instead of the values themselves? This will enable us to give functions control over variables and structures of the parent functions, and not just a copy of them, thus directly reading and writing the original object.
+
 When passing pointers as arguments, the memory address is passed, this allows to escape the scope of the function to modify variables (because the value stored in the memory address is modified). For example, this program:
 ```c
 #include <stdio.h>
