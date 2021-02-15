@@ -6,17 +6,6 @@ nav_order: 1
 
 # C
 
-## Sections
-
-- [Basic Structure](./Notes/Basic-Structure.md)
-- [IO](./Notes/IO.md)
-- [Data Types](./Notes/Data-Types.md)
-- [Strings](Notes/Strings.md)
-- [Math in C](Notes/Math.md)
-- [Flow Control](Notes/Flow-Control.md)
-- [Functions](Notes/Functions.md)
-  - [Variable Storage Class (Scope)](Notes/storage_class.md)
-
 ## Why C?
 
 1. A C program runs in a much smaller memory footprint (embedded systems).
@@ -29,5 +18,8 @@ nav_order: 1
 ## Others
 
 - [C for Java Programmers](https://www.cs.rochester.edu/u/ferguson/csc/c/c-for-java-programmers.pdf)
+- [C Summary Sheet](https://atmos.illinois.edu/courses/atmos502-sp2017/Handouts/CReferenceCard2.pdf)
+- [Dan Pages](https://c-for-dummies.com/)
+- [More resources](https://atmos.illinois.edu/courses/atmos502-sp2017/C-language.html)
 
 
