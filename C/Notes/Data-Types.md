@@ -53,6 +53,8 @@ float:4
 double:8
 ```
 
+In the case of integers, the `stdint.h` header file defines types and constant to work with precisely specifed types (Like `uint64_t` which represents an unsigned integer which is always 64 bits). More information [here](https://pubs.opengroup.org/onlinepubs/009696799/basedefs/stdint.h.html).
+
 ## Constants
 
 ### Constant Data type
