@@ -1,6 +1,7 @@
 ---
 title: System Startup
 parent: Linux
+has_childer: true
 nav_order: 3
 ---
 # The boot process
@@ -50,7 +51,20 @@ Methods for this startup are `systemd` and `Upstart`
 
 ## `systemd`
 
+- Current systems use `systemd` instead of `init` because it simplifies the init process and makes it faster (parallel service execution instead of sequential)
+- Complicated startup shell scripts are replaced with simpler configuration files
+- `/sbin/init` now just points to `/lib/systemd/systemd`;
 
+Some commands are:
+
+Starting, stopping, restarting a service (using nfs as an example) on a currently running system:
+```
+$ sudo systemctl start|stop|restart nfs.service
+```
+Enabling or disabling a system service from starting up at system boot:
+```
+$ sudo systemctl enable|disable nfs.service
+```
 
 
 
