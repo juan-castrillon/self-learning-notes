@@ -1,6 +1,6 @@
 ---
 title: FileSystems
-parent: System-Startup
+parent: System Startup
 grand_parent: Linux
 nav_order: 1
 ---
