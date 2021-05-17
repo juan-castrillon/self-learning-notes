@@ -1,7 +1,6 @@
 ---
 title: GUI
 parent: Linux
-has_children: true
 nav_order: 4
 ---
 # GUI
@@ -28,10 +27,9 @@ nav_order: 4
 
 ## Nautilus (File Manager)
 
- Is used to navigate the file system
- Lets you access different locations on your computer and the network
- Can be opened from terminal (`nautilus`)
- When a file is double-clicked is opened with a text editor (The default text editor in GNOME is `gedit`) (This can be changed in the configuration)
- Deleting files sends them to `.local/share/Trash/files/`
- A file can also be permanently deleted (`shift` + `delete`) and the trash can be emptied.
- 
+ - Is used to navigate the file system
+ - Lets you access different locations on your computer and the network
+ - Can be opened from terminal (`nautilus`)
+ - When a file is double-clicked is opened with a text editor (The default text editor in GNOME is `gedit`) (This can be changed in the configuration)
+ - Deleting files sends them to `.local/share/Trash/files/`
+ - A file can also be permanently deleted (`shift` + `delete`) and the trash can be emptied.
