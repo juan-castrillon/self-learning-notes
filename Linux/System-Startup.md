@@ -22,7 +22,7 @@ This is a sequential Process
 ## 2. Boot Loader & Kernel
 
 - First Stage: Master Boot Record (MBR)  examines the partition table and finds a bootable partition. Also finds a second-stage bootloader (e.g. GRUB) and loads in into RAM
-- Second Stage: Programs like GRUB allow to choose the OS. Once decided, it loads the kernel and the initial RAM disks (in RAM) and passes control to the kernel. (Kernel first job is to uncompress itself)
+- Second Stage: Programs like GRUB allow to choose the OS. Once decided, it loads the kernel and the initial RAM disks (in RAM) and passes control to the kernel. (Kernel first job is to decompress itself)
 - When the kernel is loaded in RAM, it initializes and configures the computer’s memory and also configures all the hardware attached to the system.
 - Second stage bootloaders are located in `/boot`
 - Some second-stage bootloaders are GRUB (for GRand Unified Boot loader), ISOLINUX (for booting from removable media), and DAS U-Boot (for booting on embedded devices/appliances)

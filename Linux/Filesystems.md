@@ -15,7 +15,7 @@ nav_order: 1
 
 - Linux uses the ‘/’ character to separate paths (unlike Windows, which uses ‘\’), and does not have drive letters. 
 - Multiple drives and/or partitions are mounted as directories filesystem. 
-- Removable media such as USB drives and CDs and DVDs will show up as mounted at /run/media/yourusername/disklabel 
+- Removable media such as USB drives and CDs and DVDs will show up as mounted at `/run/media/yourusername/disklabel` 
 - Many distributions distinguish between core utilities needed for proper system operation and other programs, and place the latter in directories under `/usr`.
 
 ![fhs](https://courses.edx.org/assets/courseware/v1/66def40e2774fd96011565107706da2d/asset-v1:LinuxFoundationX+LFS101x+1T2020+type@asset+block/dirtree.jpg)
