@@ -1,6 +1,7 @@
 ---
 title: GUI
 parent: Linux
+has_children: true
 nav_order: 4
 ---
 # GUI

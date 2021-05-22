@@ -1,6 +1,6 @@
 ---
-title: GUI
-parent: System Configuration
+title: System Configuration
+parent: GUI
 grand_parent: Linux
 nav_order: 1
 ---
@@ -47,7 +47,7 @@ nav_order: 1
 ### RHEL Family
 
 - `rpm` (low level): Used by  RH but also SUSE/penSUSE, Mageia, CentOS, Oracle Linux, a.o
-- `yum` () | `dnf` (high level)
+- `yum`, `dnf` (high level)
 
 ### Open SUSE Family
 
