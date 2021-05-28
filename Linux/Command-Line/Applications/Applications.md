@@ -23,6 +23,8 @@ All linux distros have a low level and a high level package manager:
 
 ![image](https://user-images.githubusercontent.com/64461123/119973603-fa0ae000-bfb3-11eb-998f-0d9fe57e614f.png)
 
+Basic commands can be found [here](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/f478e1c28b54f5df1d53ef1bc855b2e3/asset-v1:LinuxFoundationX+LFS101x+3T2018+type@asset+block/Basic_Packagaing_Commands.pdf)
+
 ## In Ubuntu (all Debian-based OS)
 
 ### Low Level: `dpkg`
