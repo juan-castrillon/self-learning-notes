@@ -41,3 +41,16 @@ Help | `h`
 Go to next | `n`
 Go to previous | `p`
 Move one node up in the index | `u`
+
+# `--help` and `help`
+
+- `--help` :Most commands provide a short way to get some reference passing the `--help` flag.
+- `help` Is a program that can be used inside bash shells to get help about commands that run especially built-in bash versions. A list of these commands is shown using `help`
+
+# Other sources
+
+Include: 
+
+- Desktop help system: All Linux desktop systems have a graphical help application. This contains desktop specific help as well as some rendered `man` and `info` pages. Can be runned from GUI or CLI (For example, for GNOME `gnome-help` or `yelp`)
+- Package documentation: Linux documentation is also available as part of the package management system. Usually, this documentation is directly pulled from the upstream source code, but it can also contain information about how the distribution packaged and set up the software. Normally available in `/usr/share/doc`
+- Online resources: Include forums, and doc pages. Also ebooks, like [this one](http://linuxcommand.org/tlcl.php)
