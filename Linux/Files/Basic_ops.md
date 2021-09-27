@@ -1,7 +1,7 @@
 ---
 title: Basic File Operations
 parent: Files
-grand_parent: Command Line Operations
+grand_parent: Linux
 ---
 
 Basic Operations include:

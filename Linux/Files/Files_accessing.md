@@ -1,7 +1,7 @@
 ---
 title: Accessing Files and Directories
 parent: Files
-grand_parent: Command Line Operations
+grand_parent: Linux
 ---
 # Accessing Files and Directories
 

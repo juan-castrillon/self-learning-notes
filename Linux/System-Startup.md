@@ -1,7 +1,6 @@
 ---
 title: System Startup
 parent: Linux
-has_children: true
 nav_order: 3
 ---
 # The boot process

@@ -1,7 +1,7 @@
 ---
 title: File Streams
 parent: Files
-grand_parent: Command Line Operations
+grand_parent: Linux
 ---
 
 # Standard file streams
