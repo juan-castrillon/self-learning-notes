@@ -17,6 +17,24 @@ Basic Operations include:
 - For creating files, `touch` is used. This tool is also used to change the timestamp of the file (or reset it). For example with the `-t` flag `touch -t 12092018  myfile` sets the date of `myfile` to the 9/12/2018
 - Directories are created with `mkdir`
 
+## Creating files with content
+
+For this, there is two options from the command line:
+1. Use a [text editor](../TextEditors/TextEditors.md)
+2. Use a command:
+   1. `echo` together with write and append redirection
+    ```bash
+    echo line one > file1
+    echo line two >> file2    
+    ```
+   2. `cat` together with redirection
+   ```bash
+   cat << EOF > file1
+   line one
+   line two
+   EOF
+   ``` 
+
 
 # Removing
 - Removing a directory is done with `rmdir`. The directory must be empty
