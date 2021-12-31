@@ -48,9 +48,11 @@ export NAME=value
 This sets the variable only for the current shell (and child processes).
 
 
-To set it permanently, has to be added to
-    - `.bashrc` or `.profile` (better as not only applies to bash) as `export NAME=value`
-    - `/etc/environment` for system wide configuration, just added as `NAME=value`
+To set it permanently, has to be added to:
+
+  - `.bashrc` or `.profile` (better as not only applies to bash) as `export NAME=value`
+  - `/etc/environment` for system wide configuration, just added as `NAME=value`
+
 After this, the file has to be sourced (`source .bashrc` or `. .bashrc`) or a new shell has to be opened
 
 A third option, sets a variable to be fed as one shot to a command
