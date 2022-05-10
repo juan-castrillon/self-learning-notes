@@ -58,3 +58,23 @@ To access it can either be in the command line
 pgcli -h localhost -p 5432 -u user -d database
 ```
 Or inside postgres with `\c database`
+
+
+Create db: `CREATE DATABASE name;`
+Delete (dangerous): `DROP DATABASE name;`
+```sql
+CREATE TABLE table_name (
+  Column_name + data_type + constraints,
+)
+```
+Datatypes can be found [here](https://www.postgresql.org/docs/current/datatype.html)
+E.g.
+```sql
+CREATE TABLE person (
+  id int,
+  first_name VARCHAR(50),
+  birthday TIMESTAMP
+)
+```
+
+To show all tables, we can use `/d` as describe of `/d name` to describe a table
