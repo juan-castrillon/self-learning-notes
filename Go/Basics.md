@@ -4,6 +4,15 @@ parent: Go
 nav_order: 1
 ---
 
+# Doc Utilities
+
+In order to understand the different functions and methods, `go` provides multiple sources of documentation:
+
+- `go doc` command, that works as `man` for go functions and packages (e.g `go doc fmt.Printf`)
+- `godoc` app that starts a web server with the rendered docs (e.g `godoc -http :8080`)
+- [Online docs](http://pkg.go.dev)
+
+
 # Syntax
 
 - Go programs don't use semicolons to end statements. Instead the compiler detects new lines.
