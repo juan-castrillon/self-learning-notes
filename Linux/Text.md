@@ -194,3 +194,5 @@ grep -v "^some_pattern$" file #Returns line that do not match
 grep -C 3 "^some_pattern$" file #Returns 3 lines(before and after) of context and the one that matches
 grep -e "^some_pattern$" -e "some_other" file #Multiple patterns
 ```
+
+> `strings` can be used to extract strings from binaries as well
